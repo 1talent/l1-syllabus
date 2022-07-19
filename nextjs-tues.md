@@ -54,9 +54,16 @@
 
 ## Session 8: Leveraging 3rd party open source code
 
-- How to read that 3rd party open source code and how to repurpose it for their own custom functions on their website. Leveraging open source projects: https://github.com/btahir/next-shopify-starter
+- Understand async-await and how to use fetch to call GraphQL APIs
+- Create collection, product, variant in your Shopify store. Use handle to access the Shopify Liquid objects
+- How use shopify.js APIs implementation in our Nextjs app
+
 
 ## Session 9: Using libraries from npm (and understand the pros and cons of open source libraries), Github workflows (some basics), README
+
+- Make sure everyone has working repository
+- Leveraging open source projects: https://github.com/btahir/next-shopify-starterLeveraging to have fully working application
+- Github workflow
 
 ## Session 10: Advanced NextJS
 
