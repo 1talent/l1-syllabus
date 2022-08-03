@@ -43,7 +43,7 @@
 
 ## Session 8: Complete Users models & Authentication feature
 
-- Complete `app_user_profiles`, `access_token`, `refresh_tokens` models
+- Implement `/api/v1/auth/register` with TDD
 - Integrate above models with `auth` handlers
 - Test results
 
