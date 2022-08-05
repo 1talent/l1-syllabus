@@ -27,25 +27,24 @@
 
 - Complete `auth` middleware
 - Complete `auth` routes
-- Complete `auth` handlers
+- Run persistance layer infrastructure: `postgres` containers
 
 ## Session 6: Setup Persistance layer (1)
 
-- Overview persistance layer infrastructure: `postgres`, `integresql` containers
 - Overview persistance layer tech stack: `pq`, `sqlboiler`, `sql-migrate`
+- How to use `sql-migrate`, `sqlboiler`
 - Setup to call first `sqlboiler` (start with `users` model)
 
 ## Session 7: Setup Persistance layer (2)
 
-- How to use `sql-migrate`, `sqlboiler`
-- Integrates `pgFormatter` and `vscode-pgFormatter` for SQL formatting
-- Complete `users` model
+- How to use `go swagger` to generate payload for `auth` handlers
+- Log capability with the `zerolog` library and customisations in log.go and context.go
+- Create  `PostRegisterRoute` and its handler
 
 ## Session 8: Complete Users models & Authentication feature
 
-- Implement `/api/v1/auth/register` with TDD
-- Integrate above models with `auth` handlers
-- Test results
+- Complete `post_register`, `post_login`, `post_logout`, `get_userinfo` routes
+- Implement test for code
 
 ## Session 9: Introduce Postgres integrate tests, logging
 
