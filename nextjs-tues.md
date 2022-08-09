@@ -61,16 +61,16 @@
 
 ## Session 9: Using libraries from npm (and understand the pros and cons of open source libraries), Github workflows (some basics), README
 
-- Make sure everyone has working repository
-- Leveraging open source projects: https://github.com/btahir/next-shopify-starterLeveraging to have fully working application
+- Deep dive into the workflow from getting data with GraphQL to rendering ReactJs components with support API of NextJs
+- Leveraging open source projects: https://github.com/btahir/next-shopify-starterLeveraging to implement Product details page
 - Github workflow
 
 ## Session 10: Advanced NextJS
 
-- statement management libraries
+- writing tests
 
 ## Session 11: Advanced NextJS
 
-- writing tests
+- statement management libraries
 
 ## Session 12: Preparing your CV and preparing for technical interviews in English
