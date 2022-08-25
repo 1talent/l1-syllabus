@@ -47,7 +47,7 @@
 ## Session 9 : Creating Responsive Design and Singleton Pattern.
 
 - Creating Responsive UI with the help of [flutter_screenutil](https://pub.dev/packages/flutter_screenutil) package.
-- How to use Signleton patttern and why we use it.
+- How to use Singleton pattern and why we use it.
 
 
 ## Session 10 : Hive Database.
